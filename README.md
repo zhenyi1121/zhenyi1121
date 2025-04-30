@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi, I'm Chong Zhen Yi
+I'm a diploma student from APU and currently studying diploma in ICT.
 
 <!--
 **zhenyi1121/zhenyi1121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
