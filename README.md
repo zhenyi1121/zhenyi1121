@@ -1,26 +1,45 @@
-## Hi, I'm Chong Zhen Yi
-I'm a diploma student from APU and currently studying diploma in ICT.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=200&section=header&text=Hi%20I'm%20Chong%20Zhen%20Yi&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="banner"/>
 
-The coding language I've learned:<br><br>
-JavaScript | Java | Python | Php | SQL | Html | CSS
-<br>
-----------------------------------------------------------------------
-Also,I've learned about making website's prototype with these tools:<br>
+## 👋 Hi there, I'm **Chong Zhen Yi**  
+🎓 Diploma student at **Asia Pacific University (APU)**  
+💻 Currently pursuing a **Diploma in Information & Communication Technology**
 
-Figma | Wix Studio
------------------------------------------------------------------------
+---
 
-<!--
-**zhenyi1121/zhenyi1121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧠 Languages I've Learned:
+🟨 JavaScript &nbsp;&nbsp;|&nbsp; ☕ Java &nbsp;&nbsp;|&nbsp; 🐍 Python  
+🐘 PHP &nbsp;&nbsp;|&nbsp; 🗃️ SQL &nbsp;&nbsp;|&nbsp; 🌐 HTML & CSS
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools & Prototyping Experience:
+🎨 Figma &nbsp;&nbsp;|&nbsp; 🖥️ Wix Studio
+
+---
+
+### 📂 My Projects:
+🔸 Anime-themed Quiz System (PHP + MySQL + JS + HTML/CSS)  
+🔸 Hostel Management Fees Payment System (Java GUI with file handling)  
+🔸 Wayang Kulit Chatbot (Text-based assistant for local culture)
+
+---
+
+### 📚 Currently Learning:
+📌 React & Tailwind CSS  
+📌 Git & GitHub for version control  
+📌 Object-Oriented Programming principles in Java
+
+---
+
+### 📊 GitHub Stats:
+
+![ZhenYi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhenyi1121e&show_icons=true&theme=tokyonight&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhenyi1121&layout=compact&theme=tokyonight)
+
+---
+
+📫 *Feel free to connect or collaborate!*  
+🌱 *I’m passionate about building creative, meaningful digital experiences.*  
+🚀 *Let’s grow together as developers!*
+
+
