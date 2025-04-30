@@ -1,5 +1,6 @@
 ## Hi, I'm Chong Zhen Yi
 I'm a diploma student from APU and currently studying diploma in ICT.
+
 The coding language I've learned:<br><br>
 JavaScript | Java | Python | Php | SQL | Html | CSS
 <br>
