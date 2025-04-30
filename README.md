@@ -19,8 +19,8 @@
 
 ### 📂 My Projects:
 🔸 Anime-themed Quiz System (PHP + MySQL + JS + HTML/CSS)  
-🔸 Hostel Management Fees Payment System (Java GUI with file handling)  
-🔸 Wayang Kulit Chatbot (Text-based assistant for local culture)
+🔸 Gadget Merchant System (Python Only)  
+🔸 Wayang Kulit Chatbot (Made by Botpress)
 
 ---
 
