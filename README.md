@@ -19,7 +19,7 @@
 
 ### 📂 My Projects:
 🔸 Anime-themed Quiz System (PHP + MySQL + JS + HTML/CSS)  
-🔸 Gadget Merchant System (Python Only)  
+🔸 Gadget Service System (Python Only)  
 🔸 Wayang Kulit Chatbot (Made by Botpress)
 
 ---
