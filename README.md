@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=150&section=header&text=Hi%20I'm%20Chong%20Zhen%20Yi&fontSize=30&fontColor=ffffff&animation=fadeIn" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=250&section=header&text=Hi%20I'm%20Chong%20Zhen%20Yi&fontSize=30&fontColor=ffffff&animation=fadeIn" alt="banner"/>
 
 ## 👋 Hi there, I'm **Chong Zhen Yi**  
 🎓 Diploma student at **Asia Pacific University (APU)**  
