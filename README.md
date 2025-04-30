@@ -1,19 +1,12 @@
 ## Hi, I'm Chong Zhen Yi
 I'm a diploma student from APU and currently studying diploma in ICT.
 The coding language I've learned:<br><br>
-JavaScript<br>
-Java<br>
-Python<br>
-Php<br>
-SQL<br>
-Html<br>
-CSS<br>
+JavaScript | Java | Python | Php | SQL | Html | CSS
 <br>
 ----------------------------------------------------------------------
 Also,I've learned about making website's prototype with these tools:<br>
 
-Figma<br>
-Wix Studio
+Figma | Wix Studio
 -----------------------------------------------------------------------
 
 <!--
